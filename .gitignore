@@ -182,3 +182,9 @@ cython_debug/
 
 # Data files
 **/dataset/
+
+# Logs File 
+**/logs/
+
+# weights
+**/weights/
